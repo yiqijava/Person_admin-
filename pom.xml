@@ -20,7 +20,7 @@
         <guli.version>0.0.1-SNAPSHOT</guli.version>
         <mybatis-plus.version>3.0.5</mybatis-plus.version>
         <velocity.version>2.0</velocity.version>
-        <swagger.version>2.7.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
     </properties>
     <dependencies>
             <!--mybatis-plus 持久层-->
